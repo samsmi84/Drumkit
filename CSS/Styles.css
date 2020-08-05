@@ -1,8 +1,8 @@
-html {
-    font-size: 10px;
-    background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
-    background-size: cover;
-  }
+  html {
+      font-size: 10px;
+      background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
+      background-size: cover;
+    }
   
   body,html {
     margin: 0;
